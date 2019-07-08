@@ -19,7 +19,7 @@ export default Assessment;
 var stuffArray = [42, "Arthur Dent", 1978, "Zaphod", "Vogon", "Marvin, the Paranoid Android"]
 
 stuffArray.map(function(el, i){
-  console.log(el + " is at index: " + i)
+  return(el + " is at index: " + i)
 })
 
 

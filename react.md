@@ -91,9 +91,15 @@ Try your best to answer each question on your own before looking up the answer o
  
  
  //Your Answer
- 
+ props are used to send data to other components.
+ super(props)
+ state is used to change code in the same component.
+ this.state
  
  //Googled Answer
  
    
 #### 9. Write a paragraph or so about your experience with building tic-tac-toe. Some topics to start with might be: things you learned about yourself, concepts from React that stood out to you, something about pair programming (if you paired), or the experience of building something in code from scratch.
+The group I was in never got to the tic tac toe application but we did create treasure hunt.
+It was very challenging but I think I learned a lot and it helped me understand react better.
+As a group we did very well at switching the driver and sharing ideas, but we were also all at a similar level when it came to understand the language.
